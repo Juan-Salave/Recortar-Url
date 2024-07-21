@@ -1,0 +1,16 @@
+header{
+    width: 100%;
+    height: 40px;
+}
+.fondo {
+    background-image: url('/static/img/fondo.jpg');
+    background-size: cover; /* ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* evita que la imagen se repita */
+    /* background-position: center;  centra la imagen en el fondo */
+}
+.margen {
+    margin-top: 250px;
+}
+a {
+    text-decoration: none;
+}
